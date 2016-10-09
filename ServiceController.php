@@ -6,7 +6,7 @@
  * Time: 12:03
  */
 
-namespace geogrynet\serviceMode;
+namespace georgynet\serviceMode;
 
 use yii\web\Controller;
 
