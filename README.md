@@ -13,7 +13,7 @@ Service Mode
 Сконфигурировать расширение:
 
 ```
-'bootstrap' => ['log', 'serviceMode'],
+'bootstrap' => ['log', 'serviceMode']
 ```
 
 ```
