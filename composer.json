@@ -1,0 +1,21 @@
+{
+  "name": "georgynet/service-mode",
+  "type": "yii2-extension",
+  "description": "Service mode for the yii2 framework projects",
+  "keywords": ["yii2", "service", "maintenance"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Georg Spack",
+      "email": "georgynet@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "~2.0.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "sllite\\service-mode\\": ""
+    }
+  }
+}
