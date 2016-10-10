@@ -21,7 +21,10 @@ Service Mode
     // ...
     'serviceMode' => [
         'class' => 'georgynet\serviceMode\ServiceMode',
-        'serviceMode' => false
+        // активность режима обслуживания
+        'active' => true,
+        // список пользователей, для которых есть доступ
+        'users' => ['georgynet']
     ],
     // ...
 ]
